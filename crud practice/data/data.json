@@ -1,0 +1,41 @@
+{
+  "servants": [
+    {
+      "id": 1,
+      "nombre": "arturia",
+      "clase": "saber"
+    },
+    {
+      "id": 2,
+      "nombre": "cuchulain",
+      "clase": "lancer"
+    },
+    {
+      "id": 3,
+      "nombre": "heracles",
+      "clase": "berserker"
+    },
+    {
+      "id": 4,
+      "nombre": "gilgamesh",
+      "clase": "archer"
+    },
+    {
+      "nombre": "mordred",
+      "clase": "saber",
+      "id": 5
+    }
+  ],
+  "masters": [
+    {
+      "id": 1,
+      "nombre": "rin tohsaka",
+      "rango": "alto"
+    },
+    {
+      "id": 2,
+      "nombre": "shirou emiya",
+      "rango": "intermedio"
+    }
+  ]
+}
