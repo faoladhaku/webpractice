@@ -1,0 +1,23 @@
+/* .imleft {
+  overflow: auto;
+  height: 700px;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+} */
+.imleft {
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  justify-items: auto;
+  height: 700px;
+  overflow: auto;
+}
+.List {
+  overflow: scroll;
+  background-color: cadetblue;
+  display: flex;
+  flex-direction: column;
+  justify-items: auto;
+}

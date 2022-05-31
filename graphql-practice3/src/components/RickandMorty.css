@@ -1,0 +1,17 @@
+.container-grid-areas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas: "left-sidebar" "right-content";
+}
+
+.left-sidebar {
+  background-color: aqua;
+  overflow: auto;
+  height: 700px;
+}
+.right-content {
+  background-color: bisque;
+  overflow: hidden;
+  height: 500px;
+}

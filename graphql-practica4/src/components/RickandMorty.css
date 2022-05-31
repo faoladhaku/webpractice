@@ -1,0 +1,15 @@
+.Container {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "Left Right";
+  overflow: hidden;
+}
+
+.Left {
+  overflow: auto;
+}
+.Right {
+  overflow: hidden;
+  height: 500px;
+}
